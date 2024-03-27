@@ -72,6 +72,9 @@ def df_filterfecha(message, df):
     return filtered_df
 
 
+image = 'images/vgclab-negro.jpg'
+st.sidebar.image(image)
+
 # carga de datos
 
 try:
